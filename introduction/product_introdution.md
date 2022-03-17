@@ -30,3 +30,4 @@ UCloud混合云多云运营管理平台（以下简称：UCMP）是UCloud基于�
 
 # 产品功能架构图
 
+![UCMP产品功能架构图](/images/product_introduction.png)
